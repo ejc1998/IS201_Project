@@ -71,13 +71,13 @@
   }
   h2{
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin-left: 300px;
+      margin-left: 25%;
   }
 
   h3{
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin-left: 300px;
-      margin-right: 300px;
+      margin-left: 25%;
+      margin-right: 25%;
   }
 
   .chart {

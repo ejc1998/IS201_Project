@@ -47,7 +47,7 @@ h1{
 }
 
 .item{
-    width:190px;
+    width:100%;
     text-align:center;
     display:block;
     background-color: rgba(255, 218, 185, 0.626);
